@@ -1,4 +1,4 @@
-#HTB-PAPER-CTF
+HTB - PAPER - CTF
 
 1- Conectar com a VPN e o lab do HTB
 
