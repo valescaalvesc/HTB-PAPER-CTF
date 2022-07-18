@@ -1,4 +1,5 @@
-#HTB - PAPER - CTF
+#HTB-PAPER-CTF
+
 1- Conectar com a VPN e o lab do HTB
 
 2- Iniciar a máquina para receber o IP
