@@ -238,6 +238,6 @@ E... somos ROOT!
 ![img35](https://user-images.githubusercontent.com/61808567/179633467-f59ed281-f5ae-4bd6-abb2-c5e19ffe4843.png)
 
 
-Flag root: /org/freedesktop/Accounts/User1005
+Flag root encontrada
 
 Temos as 2 flags :)
