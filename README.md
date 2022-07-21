@@ -36,7 +36,7 @@ Vamos utilizar o Gobuster para ver quais diretórios estão disponíveis.
 
 Não obtivemos nenhuma resposta para isso. Sem diretórios disponíveis e apenas sabemos as portas abertas.
 
-Para tentar saber mais informações, vamos tentar usar o comendo curl -I 10.10.11.143 para saber mais especificações do IP
+Para tentar saber mais informações, vamos tentar usar o comendo curl -I 10.10.11.143 para saber mais especificações do IP (curl - Client URL, verificar a conectividade da URL e transferência de dados)
 
 ![img5](https://user-images.githubusercontent.com/61808567/179632865-fba80dee-c90f-4627-8f32-f9299ba5df30.png)
 
